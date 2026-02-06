@@ -3,7 +3,7 @@
 ## Overview
 This project is a practical **Incident Escalation Playbook** designed to simulate the responsibilities of a **SOC Tier 1 Analyst** within a mid-sized enterprise environment.  
 
-Rather than focusing on tools alone, this playbook emphasizes **decision-making, communication, and operational readiness** — the skills required to handle security alerts calmly and consistently in real organizational settings.
+Rather than focusing on tools alone, this playbook emphasizes **decision-making, communication, and operational readiness** - the skills required to handle security alerts calmly and consistently in real organizational settings.
 
 This project complements my other portfolio artifacts:
 - **SIEM Log Analysis & Incident Investigation**
